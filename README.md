@@ -4,6 +4,14 @@ A ComfyUI custom node that converts a color image to grayscale using **quaternio
 
 ---
 
+## Screenshots
+
+![Screenshot 1](ScrShot%205.png)
+
+![Screenshot 2](ScrShot%206.png)
+
+---
+
 ## How It Works
 
 Every RGB pixel is mapped to a **pure quaternion**:
